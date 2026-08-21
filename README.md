@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafael!
 
-<!--
-**RafaelBaltasar/RafaelBaltasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Information Systems Student**
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently learning and improving my programming skills by working on school projects and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+💻 C++
+🎨 CSS
+🌐 HTML
+☕ Java
+⚡ JavaScript
+
+### 🛠️ Skills & Tools
+
+* Git & GitHub
+* HTML & CSS
+* JavaScript
+* Java
+* C++
+* Python
+* SQL
+* Node.js / Express
+
+### 🎯 Goals
+
+To become a skilled developer, build useful applications, and continuously improve my programming and problem-solving skills.
+
+### 📌 Featured Projects
+
+Check out my repositories below to see some of the projects I've worked on.
+
+---
+
+⭐ Thanks for visiting my profile!
